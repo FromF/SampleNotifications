@@ -4,7 +4,8 @@
 
 [Swiftビギナーズ勉強会 第２４回 #swiftbg at ヴァル研究所様](https://swift-beginners.doorkeeper.jp/events/61337)でLT発表したサンプルプログラムです。  
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/LHf2jODPx0QTkg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FromF/ss-77374320" title="ローカル通知" target="_blank">ローカル通知</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/FromF">FromF</a></strong> </div>
+
+[LTスライド](https://www.slideshare.net/FromF/ss-77374320)
 
 ## 参考サイト
 
