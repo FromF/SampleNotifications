@@ -9,8 +9,6 @@
 
 ## 参考サイト
 
-[角丸で枠線のUIButtonを作る](http://qiita.com/hatapu/items/99e6a8b19f890f0fec9f)  
-
 [Apple UserNotifications](https://developer.apple.com/documentation/usernotifications)  
 [[Qiita]iOS 10 時代の Notification](http://qiita.com/koogawa/items/0dff2f59096b292571db)  
 [[Qiita]iOS 10 の Push通知 / ローカル通知 でできること](http://qiita.com/mishimay/items/9451b85982e2288ee4aa)  
@@ -21,7 +19,7 @@
 [かわいいフリー素材集　いらすとや](http://www.irasutoya.com/)より[記念日のケーキのイラスト
 ](http://www.irasutoya.com/2015/05/blog-post_250.html)を利用しました。  
 
-## これからつくるiPhoneアプリ開発入門 ~Swiftではじめるプログラミングの第一歩~
+## これからつくるiPhoneアプリ開発入門 Swiftではじめるプログラミングの第一歩
 
 おすすめSwift 3.0向け入門書です。  
 [公式サイト](https://swiftbg.github.io/swiftbook/)  
